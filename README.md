@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HANSIKA30
+- 👋 Hi, I’m @HANSIKA
 - 👀 I’m interested in coding js 
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on nothing?
 - 📫 How to reach me ...looks like it's a secret
 
